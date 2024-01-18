@@ -1,7 +1,5 @@
 ### Hi there I am Data Geek, Colleen👋
 
-<!--
-**ColleenJung/ColleenJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Now I am studying Applied Data Science at University of Chicago.
 
