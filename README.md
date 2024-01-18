@@ -1,7 +1,7 @@
 ### Hi there I am Data Geek, Colleen👋
 
 
-Now I am studying Applied Data Science at University of Chicago.
+Now I am studying MS in Applied Data Science at University of Chicago.
 
 **I love Data Science, Machine Learning and how it can reveal hidden insights behind numbers**
 
