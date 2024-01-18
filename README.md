@@ -20,6 +20,6 @@ I am looking forward to applying my knowledge and experience in building intelli
 - 👯 I’m looking for help with people who think ML is difficult, which is not!
 - 💼 I have a Bachelor's degree in Statistics
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: jshn2121@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/colleenjung/), jshn2121@gmail.com
 - ⚡ Fun fact: I am a foodie. My google map is pinned with verified restaurants
 - 😄 Pronouns: She/her/hers
