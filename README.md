@@ -21,5 +21,6 @@ I am looking forward to applying my knowledge and experience in building intelli
 - 💼 I have a Bachelor's degree in Statistics
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/colleenjung/), jshn2121@gmail.com
-- ⚡ Fun fact: I am a foodie. My google map is pinned with verified restaurants
+- ⚡ Fun fact: I am a foodie. My Google map is pinned with verified restaurants
+- ⚡ Fun fact: My Google ID is 'minions_enthusiast'! bc it brings me back to my innocent childhood 
 - 😄 Pronouns: She/her/hers
