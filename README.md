@@ -1,10 +1,8 @@
 ### Hi there I am Colleen👋
 
-**I love Data Science, Machine Learning and how it can reveal hidden insights behind numbers**
-
 I love sharing my knowledge and experience, contribute to open source projects related to Data Science, and sharing statistical problems as code on this repository.
 
-My usual work duties are data analysis, data cleaning, building ML models to make the computers understand, predict, judge and make them smart.
+My usual work duties are data analysis,building ML models to make the computers understand, predict, judge and make them smart.
 
 I am looking forward to applying my knowledge and experience in building intelligent solutions to impact people’s lives and industries.
 
