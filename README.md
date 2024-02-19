@@ -1,5 +1,4 @@
-### Hi there I am Data Geek, Colleen👋
-
+### Hi there I am Colleen👋
 
 Now I am studying MS in Applied Data Science at University of Chicago.
 
